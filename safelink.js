@@ -26,7 +26,7 @@ if(x=="2"){xxx="even-asleep-jeff-bezos-can-earn-usd.html"}
 if(x=="3"){xxx="business-vs-investment-which-one-to.html"}
 if(x=="4"){xxx="best-freight-forwarding-services.html"}
 if(x=="5"){xxx="tips-for-choosing-best-forex-broker.html"}
- if(x=="6"){xxx="how-to-find-best-used-car-in-your-area.html"}
+if(x=="6"){xxx="how-to-find-best-used-car-in-your-area.html"}
 if(x=="7"){xxx="bitcoin-trading-and-business.html"}
 if(x=="8"){xxx="apple-smartphone-market-strategy-is-key.html"}
 if(x=="9"){xxx="future-of-bitcoin.html"}
