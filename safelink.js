@@ -19,7 +19,7 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*25)+ 1);
+var x=Math.floor((Math.random()*30)+ 1);
 var xxx=null;
 if(x=="1"){xxx="criteria-for-trusted-online-money-loans.html"}
 if(x=="2"){xxx="even-asleep-jeff-bezos-can-earn-usd.html"}
@@ -45,7 +45,12 @@ if(x=="21"){xxx="youre-paying-almost-40-more-for-your.html"}
 if(x=="22"){xxx="why-business-owners-seek-to-enter.html"}
 if(x=="23"){xxx="the-key-trends-in-global-confectionery.html"}
 if(x=="24"){xxx="astaxanthin-market-exhibiting-high.html"}
-if(x=="25"){xxx="red-gold-apple.html"}a_to_ve[i].href="https://direct.mah-channel.my.id/2021/08/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="25"){xxx="red-gold-apple.html"}
+if(x=="26"){xxx="how-to-use-google-adwords-for-business.html"}
+if(x=="27"){xxx="higher-education-marketing-digital.html"}
+if(x=="28"){xxx="how-to-use-call-to-action-for-better.html"}
+if(x=="29"){xxx="what-is-market-research-why-is-it.html"}
+if(x=="30"){xxx="everything-about-all-new-bmw-x3.html"}a_to_ve[i].href="https://direct.mah-channel.my.id/2021/08/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
